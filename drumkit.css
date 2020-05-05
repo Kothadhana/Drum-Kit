@@ -1,0 +1,46 @@
+.whole{
+  background-color: #008000;
+}
+h1{
+  text-align: center;
+  color: #ff6666;
+  padding: 100px;
+  font-stretch: expanded;
+  font-family: 'Anton', sans-serif;
+  letter-spacing: 0.5rem;
+  line-height: 30px;
+}
+button{
+  height: 150px;
+  width: 150px;
+  color: white;
+}
+.pressed
+{
+  box-shadow: 0 3px 4px 0 #DBEDF3;
+  opacity: 0.5;
+}
+.col{
+  padding: 50px;
+}
+.A{
+  background-color: pink;
+  background-image: url("tom1.png");
+
+}
+.B{
+  background-color: pink;
+  background-image: url("tom2.png");
+}
+.C{
+  background-image: url("tom3.png");
+}
+.D{
+background-image: url("tom4.png");
+}
+.E{
+  background-image: url("snare.png");
+}
+.F{
+  background-image: url("crash.png");
+}
